@@ -15,4 +15,4 @@ beautifulsoup4==4.12.3
 mutagen==1.47.0
 pillow==11.1.0
 sentence-splitter==1.4
-yt-dlp==2025.1.26
+yt-dlp
